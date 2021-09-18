@@ -1,7 +1,7 @@
 # BeHealthifyHackingHeist
 
 This website cum Project belongs to Team Akash
-In this project we are using HTML , CSS and JS. Our motive to make this website is ### `Everyone Feel Good About Yourself`.
+In this project we are using HTML , CSS and JS. Our motive to make this website is `Everyone Feel Good About Yourself`.
 We are added some feature which is useful in our daily life.
 
 ## Stopwatch
